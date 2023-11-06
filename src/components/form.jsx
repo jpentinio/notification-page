@@ -4,7 +4,7 @@ import { data } from "../constants";
 
 const Form = () => {
   return (
-    <section className="w-[700px] bg-white rounded-lg p-4 sm:p-7 text-[#5e6778]">
+    <section className="w-[700px] bg-white rounded-lg p-4 sm:p-7 text-[#5e6778] shadow-lg shadow-slate-100">
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-2">
           <h2 className="text-2xl font-bold text-black">Notifications</h2>
