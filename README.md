@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot1](./public/notif-screenshot1.png)
+![notification-screenshot1](./src/assets/notif-screenshot1.png)
 
-![screenshot2](./public/notif-screenshot2.png)
+![notification-screenshot2](./src/assets/notif-screenshot2.png)
 
 
 ### Links
